@@ -1,0 +1,27 @@
+{
+  "name": "learning_webpack",
+  "version": "1.0.0",
+  "description": "Learning WebPack with Vladilen Minin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightxlamp/Webpack.git"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "Vladilen Minin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightxlamp/Webpack/issues"
+  },
+  "homepage": "https://github.com/lightxlamp/Webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
